@@ -1,1 +1,1 @@
-Using Python, created a mini-game that generates a random three-digit number, and prompts the user to guess that number.
+Using Python, created a mini-game that generates a random three-digit number, and prompts the user to guess that number. The user is given 10 attempts to guess the random number, and hints are given if a correct digit is guessed, but in the wrong location.
